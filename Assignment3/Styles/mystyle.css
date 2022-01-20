@@ -1,0 +1,37 @@
+h1{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    letter-spacing: 7px;
+    word-spacing: 30px;
+
+
+}
+
+h3{
+    background-color: blueviolet; font-size: 20px;
+    color: cornflowerblue;
+    width: 500px;
+    text-align: center;
+    text-shadow: 1000px;
+}
+p{
+    line-height: 2;
+    font-size: 18px;
+}
+.text{line-height: 2;
+    font-size: 18px;
+    width: 80%;
+    text-transform: uppercase;
+}
+
+.blue-bg{
+    background-color: lightblue;
+}
+.yellow-bg{
+    background-color: yellowgreen;
+}
+
+mark{
+    background-color: lightseagreen;
+}
